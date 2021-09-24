@@ -1,0 +1,13 @@
+C:\Users\Michael\source\repos\Rain\Rain\bin\Debug\netcoreapp3.1\Rain.exe
+C:\Users\Michael\source\repos\Rain\Rain\bin\Debug\netcoreapp3.1\Rain.deps.json
+C:\Users\Michael\source\repos\Rain\Rain\bin\Debug\netcoreapp3.1\Rain.runtimeconfig.json
+C:\Users\Michael\source\repos\Rain\Rain\bin\Debug\netcoreapp3.1\Rain.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Rain\Rain\bin\Debug\netcoreapp3.1\Rain.dll
+C:\Users\Michael\source\repos\Rain\Rain\bin\Debug\netcoreapp3.1\Rain.pdb
+C:\Users\Michael\source\repos\Rain\Rain\obj\Debug\netcoreapp3.1\Rain.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\Rain\Rain\obj\Debug\netcoreapp3.1\Rain.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Rain\Rain\obj\Debug\netcoreapp3.1\Rain.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Rain\Rain\obj\Debug\netcoreapp3.1\Rain.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Rain\Rain\obj\Debug\netcoreapp3.1\Rain.dll
+C:\Users\Michael\source\repos\Rain\Rain\obj\Debug\netcoreapp3.1\Rain.pdb
+C:\Users\Michael\source\repos\Rain\Rain\obj\Debug\netcoreapp3.1\Rain.genruntimeconfig.cache
